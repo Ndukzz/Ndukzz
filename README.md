@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ndukzz
-- 👀 I’m interested in Frontend dev
-- 🌱 I’m currently learning ReactJS
+- 👀 Frontend dev
+- ⚛  ReactJS
 - 💞️ I’m looking to collaborate on Multi-Million Dollar Project
 - 📫 How to reach me ebukaemannuel@gmail.com, 09051050454
 

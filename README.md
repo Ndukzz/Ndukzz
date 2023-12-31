@@ -37,8 +37,6 @@ src="https://img.shields.io/github/followers/ndukzz?logo=github&style=for-the-ba
 
 <a href="http://www.github.com/ndukzz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndukzz&stroke=64748b&background=0f172a&ring=10b981&fire=10b981&currStreakNum=64748b&currStreakLabel=10b981&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/ndukzz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ndukzz&bg_color=0f172a&color=64748b&line=22c55e&point=64748b&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/ndukzz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndukzz&langs_count=10&title_color=10b981&text_color=64748b&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
